@@ -1,0 +1,5 @@
+{
+  "name": "DCG Seguros MedSenior Chatbot",
+  "description": "A conversational chatbot to help users find the best MedSenior health insurance plan and take advantage of the Black Friday promotion offered by DCG Corretora de Seguros.",
+  "requestFramePermissions": []
+}
